@@ -24,5 +24,5 @@ This repository contains my personal notes and summaries from my cybersecurity l
 - `/red-team`
 - `/blue-team`
 
-⚠️ All content is for educational and ethical purposes only.
+**** All content is for educational and ethical purposes only.
 
